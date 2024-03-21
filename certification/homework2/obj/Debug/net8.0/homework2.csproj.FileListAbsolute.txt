@@ -1,0 +1,14 @@
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\homework2.AssemblyInfoInputs.cache
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\homework2.AssemblyInfo.cs
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\homework2.csproj.CoreCompileInputs.cache
+C:\GitRepo\lesson6\homework2\bin\Debug\net8.0\homework2.exe
+C:\GitRepo\lesson6\homework2\bin\Debug\net8.0\homework2.deps.json
+C:\GitRepo\lesson6\homework2\bin\Debug\net8.0\homework2.runtimeconfig.json
+C:\GitRepo\lesson6\homework2\bin\Debug\net8.0\homework2.dll
+C:\GitRepo\lesson6\homework2\bin\Debug\net8.0\homework2.pdb
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\homework2.dll
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\refint\homework2.dll
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\homework2.pdb
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\homework2.genruntimeconfig.cache
+C:\GitRepo\lesson6\homework2\obj\Debug\net8.0\ref\homework2.dll
