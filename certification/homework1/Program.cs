@@ -20,4 +20,8 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите натуральное число N: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(GetListNatNums(n, m));
+if (m<=n)
+    Console.WriteLine(GetListNatNums(n, m));
+else
+    Console.Write("Ошибка! M больше N");
+
